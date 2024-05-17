@@ -1,0 +1,8 @@
+.nav-link[aria-selected="true"] {
+    color: rgb(0, 81, 255);
+}
+
+/* Cuando aria-selected es false */
+.nav-link[aria-selected="false"] {
+    color: grey;
+}
